@@ -1,2 +1,2 @@
 # CineminhaHJ
- Repositório destinado as aulas de HTML, CSS, JS.
+ Repositório destinado as aulas de HTML e CSS.
